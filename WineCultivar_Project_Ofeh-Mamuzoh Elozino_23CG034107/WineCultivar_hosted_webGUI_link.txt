@@ -1,6 +1,7 @@
-Name: Eniola Eloh
-Matric Number: 23CG034064
+Name: Ofeh-Mamuzoh Elozino
+Matric Number: 23CG034107
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method Used: Joblib
 Live URL of the Hosted Application:  https://winecultivar-project-eloheniola.onrender.com/
-GitHub Repository: https://github.com/E-DOLLZ/WineCultivar_Project_ElohEniola_23CG034064
+GitHub Repository:https://github.com/elozinos/WineCultivar_Project_Ofeh-Mamuzoh-Elozino_23CG034107/tree/main
+
