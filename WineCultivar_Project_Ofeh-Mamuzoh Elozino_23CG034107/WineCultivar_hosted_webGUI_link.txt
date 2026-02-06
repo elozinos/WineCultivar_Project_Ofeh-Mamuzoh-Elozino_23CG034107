@@ -2,6 +2,7 @@ Name: Ofeh-Mamuzoh Elozino
 Matric Number: 23CG034107
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method Used: Joblib
-Live URL of the Hosted Application:  https://winecultivar-project-eloheniola.onrender.com/
+Live URL of the Hosted Application:  https://winecultivar-project-ofeh-mamuzoh.onrender.com
 GitHub Repository:https://github.com/elozinos/WineCultivar_Project_Ofeh-Mamuzoh-Elozino_23CG034107/tree/main
+
 
